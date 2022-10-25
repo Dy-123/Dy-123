@@ -31,5 +31,5 @@
 
 <details>
   <summary><b>:zap: Connect With Me</b></summary>
-    <a href="mailto:divyanshuyadav.it@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%" />
+    <a href="mailto:divyanshuyadav.it@gmail.com"><img src="https://img.shields.io/badge/divyanshuyadav.it-D14836?style=flat&logo=gmail&logoColor=white" />
 </details
