@@ -27,8 +27,6 @@ I am currently a final year student of Information Technology at IIIT Allahabad.
 
 ---
 
-### 🔥 &nbsp; My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dy-123&count_private=true&layout=compact&theme=vision-friendly-dark)](https://github.com/dy-123/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dy-123&count_private=true&layout=compact&theme=vision-friendly-dark)](https://github.com/Dy-123?tab=repositories)
   
 ---
