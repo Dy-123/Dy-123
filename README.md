@@ -28,7 +28,7 @@
 
 <details>
   <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=dy-123&layout=compact&theme=vision-friendly-dark />
+  <a href="https://github.com/Dy-123?tab=repositories"> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=dy-123&layout=compact&theme=vision-friendly-dark /> </a>
 </details>
 
 
