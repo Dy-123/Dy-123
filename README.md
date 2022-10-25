@@ -23,6 +23,12 @@ I am currently a final year student of Information Technology at IIIT Allahabad.
 </p>
 
 ---
-### 📫 Connect with Me : <a href="divyanshuyadav.it@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+### 📫 Connect with Me : <a href="mailto:divyanshuyadav.it@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
+---
+
+### 🔥 &nbsp; My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dy-123&count_private=true&layout=compact&theme=vision-friendly-dark)](https://github.com/dy-123/github-readme-stats)
+  
 ---
