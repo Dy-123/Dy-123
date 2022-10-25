@@ -1,5 +1,6 @@
+### Hi there 👋
 
-I am currently a final year student of Information Technology at IIIT Allahabad.
+#### I'm currently a final year student of Information Technology at IIIT Allahabad.
 
 - 🔭 I’m contributing to frontend and backend for building android and web applications.
 - 🌱 Exploring Data Mining Concepts.
@@ -23,10 +24,15 @@ I am currently a final year student of Information Technology at IIIT Allahabad.
 </p>
 
 ---
-### 📫 Connect with Me : <a href="mailto:divyanshuyadav.it@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
----
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dy-123&count_private=true&layout=compact&theme=vision-friendly-dark)](https://github.com/Dy-123?tab=repositories)
-  
----
+<details>
+  <summary><b>:zap: GitHub Profile Stat</b></summary>
+  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=dy-123&layout=compact&theme=vision-friendly-dark />
+</details>
+
+
+<details>
+  <summary><b>:zap: Connect With Me</b></summary>
+    <a href="mailto:divyanshuyadav.it@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+</details
