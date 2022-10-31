@@ -3,7 +3,7 @@
 #### I'm currently a final year student of Information Technology at IIIT Allahabad.
 
 - 🔭 I’m contributing to frontend and backend for building android and web applications.
-- 🌱 Exploring Data Mining Concepts.
+- 🌱 Exploring software architecture and design patterns.
 - ⚡ In my free time I watch anime, do Leetcode, and explore new things :)
 
 ---
