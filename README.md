@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-#### I'm currently a final year student of Information Technology at IIIT Allahabad.
+#### I completed my B. Tech from IIITA'23 in Information Technology. Currently doing a hybrid job.
 
-- 🔭 I’m contributing to frontend and backend for building android and web applications.
-- 🌱 Exploring software architecture and design patterns.
+- 🔭 I’m interested in doing frontend and backend work for web applications and building android/ios apps.
+- 🌱 Love to learn new tech stacks and work on challengings tasks.
 - ⚡ In my free time I watch anime, do Leetcode, and explore new things :)
 
 ---
