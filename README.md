@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I completed my B. Tech from IIITA'23 in Information Technology. Currently doing a hybrid job.
+#### Completed my B. Tech in Information Technology in 2023. Currently doing a hybrid job.
 
 - 🔭 I’m interested in doing frontend and backend work for web applications and building android/ios apps.
 - 🌱 Love to learn new tech stacks and work on challengings tasks.
